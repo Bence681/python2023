@@ -1,0 +1,9 @@
+szam=200
+
+szam+=10
+
+print ("szam") 
+
+
+
+
